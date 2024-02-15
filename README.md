@@ -9,7 +9,7 @@ Graham, S.G., Soltani, H. & Isiaq, O. Natural language processing for legal docu
 
 Please also ensure that proper credit is given to the original paper from which the dataset was derived:
 
-CUAD: Hendrycks D, Burns C, Chen A, Ball S (2021) CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review. 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks https://doi.org/10.48550/arXiv.2103.06268 
+Hendrycks D, Burns C, Chen A, Ball S (2021) CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review. 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks https://doi.org/10.48550/arXiv.2103.06268 
 
 While the dataset was created using publicly available documents, individuals using the dataset are responsible for undertaking their own ethics due diligence.
 
